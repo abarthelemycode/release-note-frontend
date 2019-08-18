@@ -1,0 +1,4 @@
+export default {
+  SENDING_RELEASE_NOTE: 'SENDING_RELEASE_NOTE',
+
+};

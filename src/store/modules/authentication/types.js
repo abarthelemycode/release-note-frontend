@@ -1,0 +1,6 @@
+export default {
+  SET_TOKEN: 'SET_TOKEN',
+  GET_TOKEN: 'GET_TOKEN',
+  DELETE_TOKEN: 'DELETE_TOKEN',
+  AUTH_ERROR: 'AUTH_ERROR',
+};
